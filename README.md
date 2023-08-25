@@ -42,7 +42,7 @@ To run the code and reproduce the results:
 - The project emphasizes proficiency in data preprocessing, feature engineering, model development, and deployment.
 - Comprehensive documentation is essential to ensure transparency and share insights gained from the project.
 
-For any questions or inquiries, feel free to contact [Your Name] at [Your Email Address].
+For any questions or inquiries, feel free to contact [Sejal Mankar] at [sejalmankar444@gmail.com].
 
 Happy coding and exploring customer churn prediction!
 
